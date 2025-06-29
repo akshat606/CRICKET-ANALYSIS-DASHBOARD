@@ -22,3 +22,4 @@ ESPN Cricinfo (Data Source)
 
 # Screenshots/ demos
 show what dashboard looks like
+https://github.com/akshat606/CRICKET-ANALYSIS-DASHBOARD/blob/main/Screenshot%202025-06-29%20194016.png
